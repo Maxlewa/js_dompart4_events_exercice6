@@ -16,6 +16,8 @@ maDiv.addEventListener('click', (e) => {
     console.log(e.target);
 })
 
+// EXO 3
+
 maDiv.addEventListener('click', (e) => {
     console.log(e.target);
     e.target.style.border = '3px solid red';
